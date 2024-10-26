@@ -16,7 +16,7 @@ This project serves as a foundation for a Flutter application focused on loan tr
 ### Screenshots
 *Note: Screenshots are provided below for reference. Ensure these images are optimized for quick loading.*
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
     <img src="./app_screenshots/01.jpeg" alt="Screenshot 1" width="300" />
     <img src="./app_screenshots/02.jpeg" alt="Screenshot 2" width="300" />
     <img src="./app_screenshots/03.jpeg" alt="Screenshot 3" width="300" />
